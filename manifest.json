@@ -1,6 +1,6 @@
 {
   "name": "EcoShite",
-  "description": "Connect to local Artisans Now",
+  "description": "Connect to local Artisans",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
